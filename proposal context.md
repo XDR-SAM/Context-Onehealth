@@ -1,367 +1,367 @@
 ## Page 1: 1.jpg
-14|
-15|### Extracted Text
-16|- ONEHEALTH
-17|- 8 July 2026
-18|- Akash Kumar Pal
-19|- AI-Powered Public Health Infrastructure Platform for Dhaka City
-20|- Team Makezaa
-21|- A Data-Driven Policy Proposal for Transforming Urban Healthcare in Bangladeshic Health Infrastructure Platform for Dhaka City
-22|- July 2026 | University Research Project Proposal
-23|- Present to the Faculty of CSE
-24|- Bangladesh University
-25|
-26|### Vision Analysis
-27|Title/cover page with clean white background, black text, grey decorative dot patterns (quarter-circle halftone at top right, wave-like cluster at bottom left). Bangladesh University crest/logo at top left. "Team Makezaa" at top center. Main title "ONEHEALTH" in extremely large bold capitals. Subtitle below. Descriptive summary paragraph with typo "Bangladeshic". Metadata line "July 2026 | University Research Project Proposal". Footer/presentation details at bottom right.
-28|
-29|### Meaning & Interpretation
-30|- **ONEHEALTH**: The project name, likely referencing the "One Health" concept (interconnected human, animal, and environmental health), but here focused on digital public health infrastructure.
-31|- **"A Data-Driven Policy Proposal..."**: Indicates this is not just a technical project but a policy-level intervention proposal for Dhaka's urban healthcare.
-32|- **"Bangladeshic" typo**: Should read "Bangladeshi" — indicates a draft version.
-33|- **Date (8 July 2026)**: Projected/future date, suggesting this is a forward-looking proposal or scenario planning document.
-34|- **"Present to the Faculty of CSE"**: Academic context — likely a final year project or thesis defense at Bangladesh University's Computer Science and Engineering department.
-35|
-36|### PPTX Verification
-37|✅ **MATCHED** — PPTX Slide 1 contains identical text including the "Bangladeshic" typo. The image accurately represents the PPTX slide content.
-38|
-39|---
-40|
-41|## Page 2: 2.jpg
-42|
-43|### Extracted Text
-44|- **Section header (top left):** OVERVIEW
-45|- **Main heading (large, split across two lines):** Executive Summary
-46|- **Subheading:** A research-backed proposal for AI-powered public health transformation
-47|- **Section 01:** The Crisis — Healthcare problems in Dhaka: AMR, overcrowding, access barriers
-48|- **Section 02:** The Solution And Roadmap — OneHealth platform: AI architecture, phases, and system design
-49|
-50|### Vision Analysis
-51|Minimalist two-column vertical layout slide. Left column (~1/3 width) has pale cool off-white background with the section header "OVERVIEW" in small golden-tan all-caps, then "Executive Summary" in large bold dark serif font, followed by the subheading and a thin golden-tan horizontal accent line. Right column (~2/3 width) has warm cream background containing two numbered sections: **01 The Crisis** and **02 The Solution And Roadmap**, each with a description in dark teal heading + medium cool gray body text. No decorative images, icons, or charts — purely text-based for readability. Color palette: muted golden-tan accents, dark navy/charcoal headings, dark teal section titles, medium cool gray body text.
-52|
-53|### Meaning & Interpretation
-54|- **"Executive Summary"**: This slide is the roadmap slide for the entire presentation — it tells the audience what the talk will cover.
-55|- **Section 01 "The Crisis"**: The first half of the presentation diagnoses Dhaka's healthcare failures: AMR (Antimicrobial Resistance — drug-resistant infections), overcrowding (too many patients, too few facilities), and access barriers (poor people can't reach or afford care).
-56|- **Section 02 "The Solution And Roadmap"**: The second half proposes OneHealth as the answer, covering the technical AI architecture, phased implementation plan, and overall system design.
-57|- **"A research-backed proposal"**: The team is positioning this as evidence-based, not just a concept — citing real data and studies.
-58|- **The two-column structure**: Visually separates "what we're talking about" (left) from "what we'll cover" (right), a common executive-summary pattern.
-59|
-60|### PPTX Verification
-61|✅ **MATCHED** — PPTX Slide 2 contains identical text content: Executive Summary, the subheading, and both numbered sections (01 The Crisis / 02 The Solution And Roadmap) with matching descriptions. The image accurately represents the PPTX slide.
-62|
-63|---
-64|
-65|## Page 3: 3.jpg
-66|
-67|### Extracted Text
-68|- **Section number (left side):** 01
-69|- **Main heading (inside black rectangular box):** THE CRISIS
-70|- **Subtitle:** Dhaka's Healthcare System is at a Breaking Point
-71|
-72|### Vision Analysis
-73|Section title slide with a high-contrast black-and-white color scheme. Large bold "01" in black serif font on the left side. Upper-center has a solid black rectangular box with "THE CRISIS" in white bold sans-serif capitals. Below the box, the subtitle "Dhaka's Healthcare System is at a Breaking Point" in smaller black serif font. White background with grey decorative dot patterns: semi-circular halftone arc in the top-left corner, and a sweeping wave-like curve of grey dots in the bottom-right corner. Layout uses significant negative space with asymmetrical but balanced composition — the large "01" on the left balances the text block on the right.
-74|
-75|### Meaning & Interpretation
-76|- **"THE CRISIS"**: This is a dramatic section opener. The all-caps white text on a black background signals urgency and severity — this isn't a minor problem, it's a systemic collapse.
-77|- **"Dhaka's Healthcare System is at a Breaking Point"**: The subtitle explicitly states that Dhaka's medical infrastructure is overwhelmed and near failure. This sets up the need for the OneHealth solution.
-78|- **"01" numbering**: Indicates this is the first major section of the presentation, establishing a clear structure.
-79|- **Visual design choice**: The stark black box with white text creates visual weight and gravitas, reinforcing the seriousness of the healthcare crisis being presented.
-80|- **Section purpose**: This slide serves as a divider/transition — after the executive summary, the presentation now dives deep into the specific problems.
-81|
-82|### PPTX Verification
-83|✅ **MATCHED** — PPTX Slide 3 contains identical text: "THE CRISIS" as the main heading, "Dhaka's Healthcare System is at a Breaking Point" as subtitle, and "01" as the section number. The image accurately represents the PPTX slide structure.
-84|
-85|---
-86|
-87|## Page 4: 4.jpg
-88|
-89|### Extracted Text
-90|- **Title:** Dhaka's Healthcare Burden: A City on the Brink
-91|- **Top statistics (3 columns):**
-92|  - **23M+** — Dhaka population, one of the world's most densely populated cities
-93|  - **80%** — of ED patients are non-emergency cases, overwhelming the system
-94|  - **4-6 hrs** — average waiting time; only 58.7%-74.5% treated within target
-95|- **Key System Failures:**
-96|  - Tertiary hospitals overcrowded due to limited primary/secondary care
-97|  - Staffing shortages: 11.6% - 53.1% across departments
-98|  - Emergency specialist shortage: 75.6% - 79.5%
-99|  - 917 cases/year of patients unable to get ward beds
-100|  - 8-50 additional beds needed per hospital ED
-101|- **Source:** National Audit Report 2018, Bangladesh; Hospaccx Healthcare Consulting
-102|
-103|### Vision Analysis
-104|Infographic slide titled "Dhaka's Healthcare Burden: A City on the Brink" with cream/off-white background, black text, and tan accent lines. Header has the title in large bold serif font with a short tan horizontal line beneath it. Top section displays three major statistics in a row: **23M+** (Dhaka population), **80%** (ED patients non-emergency), and **4-6 hrs** (average waiting time). Below the left statistic is a vertical bar chart with Y-axis 0-30 and X-axis labeled 1.0-5.0, showing five black bars of varying heights (approximately 12, 22, 24, 30, 12). Right side contains "Key System Failures:" section with five bullet points. Bottom left shows the source citation. Thin tan line runs across the very bottom.
-105|
-106|### Meaning & Interpretation
-107|- **"23M+"**: Dhaka is one of the most densely populated cities in the world — this scale explains why the healthcare system is overwhelmed. More people = more demand on limited facilities.
-108|- **"80% of ED patients are non-emergency cases"**: This is a critical failure. Emergency departments are designed for life-threatening cases, but most people using them have minor issues. This happens because primary care (local clinics) is either unavailable, too expensive, or too far away — so people go to the only place they can get care: the emergency room.
-109|- **"4-6 hrs average waiting time"**: Patients wait half a day in emergency rooms. Only 58.7%-74.5% are treated within target time — meaning up to 41.3% don't get timely care at all.
-110|- **Bar chart (1.0-5.0)**: Likely represents some metric across 5 categories (possibly hospital districts, years, or facility types). The peak at 4.0 reaching 30 suggests the worst-case scenario or highest burden point.
-111|- **Tertiary hospital overcrowding**: Dhaka's healthcare system is top-heavy — most resources go to big specialized hospitals, while primary care (neighborhood clinics) and secondary care (district hospitals) are underdeveloped. This forces everyone, even for minor issues, to go to the biggest hospitals.
-112|- **Staffing shortages (11.6%-53.1%)**: Critical shortage of healthcare workers across departments. The wide range suggests some departments are barely functional while others are slightly better.
-113|- **Emergency specialist shortage (75.6%-79.5%)**: Nearly 80% shortage of emergency medicine specialists — meaning even if you get to the ER, there may not be enough trained doctors to treat you properly.
-114|- **917 cases/year unable to get ward beds**: Almost 1,000 patients annually are turned away from hospital wards because there are no beds. They either leave untreated or are forced to go to more expensive private facilities.
-115|- **8-50 additional beds needed per hospital ED**: Each emergency department needs 8 to 50 more beds just to handle current demand. This quantifies the physical infrastructure gap.
-116|- **Source citations**: The data comes from Bangladesh's National Audit Report 2018 (government audit) and Hospaccx Healthcare Consulting (private consultancy) — lending credibility to the statistics.
-117|
-118|### PPTX Verification
-119|✅ **MATCHED (with note)** — PPTX Slide 4 contains all the text bullet points and the source citation exactly as shown in the image. The large statistic numbers (23M+, 80%, 4-6 hrs) and the bar chart are present in the image but were not captured in the raw PPTX text extraction, suggesting they may be rendered as graphics or grouped objects in the PPTX file. The textual content matches perfectly.
-120|
-121|---
-122|
-123|## Page 5: 5.jpg
-124|
-125|### Extracted Text
-126|- **Title:** The Elderly & Vulnerable: 16.5 Million, 95% with Health Problems
-127|- **Key statistics (3 columns):**
-128|  - **16.5M** — People aged 60+ (10% of population, 2024)
-129|  - **95%** — Of elderly face health problems
-130|  - **19%** — Projected 60+ share by 2050
-131|- **Critical Challenges for Elderly Care:**
-132|  - 44% of elderly live in poverty; 63% are jobless
-133|  - Only 29% receive any pension support
-134|  - Women spend 5.5 more years in poor health than men (bolded)
-135|  - No specialized geriatric care in most facilities
-136|  - Rural elderly face distance, cost, and transport barriers
-137|  - Changing family structures reduce traditional care support
-138|  - Life expectancy 72.3 yrs but healthy life expectancy much lower
-139|- **Source:** WHO Bangladesh Healthy Ageing Factsheet 2024; UN Population Division; Frontiers Public Health 2025
-140|
-141|### Vision Analysis
-142|Infographic slide titled "The Elderly & Vulnerable: 16.5 Million, 95% with Health Problems" with a faded sepia-toned background photograph of two elderly men (out of focus, serving as texture). Top section displays three large statistics: **16.5M** (people aged 60+), **95%** (of elderly face health problems), **19%** (projected 60+ share by 2050). Bottom left has a vertical bar chart with Y-axis 0-35 and X-axis 1.0-6.0 showing upward trend bars (heights approximately 12, 14, 16, 21, 28, 33). Right side lists "Critical Challenges for Elderly Care:" with seven bullet points marked by small orange-brown squares. Bottom left shows source citation. Thin orange-brown line at the bottom. Color palette: monochromatic black/white/grey with muted orange-brown accents. Mix of serif title font and sans-serif body text.
-143|
-144|### Meaning & Interpretation
-145|- **"16.5M people aged 60+"**: Bangladesh has 16.5 million elderly citizens (10% of population in 2024). This is a massive demographic group that the healthcare system is failing to serve adequately.
-146|- **"95% of elderly face health problems"**: Almost all elderly Bangladeshis have health issues — yet the system has almost no specialized care for them. This is a massive unmet need.
-147|- **"19% projected 60+ share by 2050"**: The elderly population will nearly double as a share of total population by 2050. Without intervention, the healthcare crisis will get dramatically worse.
-148|- **Bar chart (1.0-6.0)**: Shows a steady upward trend from ~12 to ~33. Likely represents aging population growth over time or increasing burden metrics. The consistent upward slope visually reinforces the "aging tsunami" narrative.
-149|- **Background photo of two elderly men**: Humanizes the statistics — these aren't just numbers, they are real people. The sepia tone and out-of-focus treatment keeps them as emotional texture rather than distraction.
-150|- **44% in poverty; 63% jobless**: Economic vulnerability means elderly can't afford private healthcare. They depend entirely on an already broken public system.
-151|- **Only 29% receive pension support**: Less than 1 in 3 elderly have any financial safety net. The rest rely on family or charity.
-152|- **Women spend 5.5 more years in poor health**: Elderly women are significantly sicker for longer — likely due to lifetime healthcare access barriers, malnutrition, and maternal health neglect.
-153|- **No specialized geriatric care**: There are almost no dedicated elderly care facilities or trained geriatricians in Bangladesh. Old people are treated in general hospitals that aren't equipped for their needs.
-154|- **Rural elderly face barriers**: Distance, cost, and transport — rural elderly can't reach Dhaka's already-overwhelmed hospitals, and their local facilities are even worse.
-155|- **Changing family structures**: Traditional joint families (where elders were cared for at home) are breaking down as people migrate to cities. Elders are increasingly isolated and without caregivers.
-156|- **Life expectancy 72.3 vs healthy life expectancy much lower**: People are living longer, but spending more years in poor health. This "morbidity gap" means more years of disability and dependency.
-157|
-158|### PPTX Verification
-159|✅ **MATCHED (with note)** — PPTX Slide 5 contains all the bullet points and the source citation exactly as shown. The large statistic numbers (16.5M, 95%, 19%) and the title were not captured in the raw PPTX text extraction, suggesting they may be in text boxes that the extraction missed. The background photograph and bar chart are visual elements not present in PPTX text extraction. All textual content matches perfectly.
-160|
-161|---
-162|
-163|## Page 6: 6.jpg
-164|
-165|### Extracted Text
-166|- **Title:** Rural-to-Dhaka Migration: Healthcare Desperation Driving Crisis
-167|- **Key statistics (3 boxes):**
-168|  - **425,000** — Patients travel abroad for treatment annually
-169|  - **46%** — Less likely to have adequate ANC (recent migrants)
-170|  - **3.5x** — More likely to use healthcare (urban vs. rural)
-171|- **The Migration-Healthcare Trap:**
-172|  - 67% of medical tourists go to India — draining $500M+ annually
-173|  - Recent migrants are 62% less likely to achieve full child immunization
-174|  - Urban non-migrants use 3.5x more healthcare than rural residents
-175|  - Rural-to-urban migrants strain Dhaka's already overloaded facilities
-176|- **Root Cause:**
-177|  - Trust deficit in local healthcare + uneven distribution of quality facilities + lack of rural specialist care = concentration of demand in Dhaka
-178|- **Source:** Frontiers Public Health 2025; BEA Bangladesh Medical Tourism Study; PMC Dhaka Migration Study 2020
-179|
-180|### Vision Analysis
-181|Infographic slide titled "Rural-to-Dhaka Migration: Healthcare Desperation Driving Crisis" with beige background, dark teal headings, and black text/graphics. Top section has three large statistic boxes: **425,000** (patients travel abroad for treatment annually), **46%** (less likely to have adequate ANC — Antenatal Care — for recent migrants), and **3.5x** (more likely to use healthcare, urban vs. rural). Bottom left has a horizontal bar chart with Y-axis 1.0-5.0 and X-axis 0-70, showing five bars heavily skewed toward 1.0 (extending to ~67, while 2.0-5.0 are much shorter at ~16, ~12, ~3, ~1). Right side contains "The Migration-Healthcare Trap:" section with four bullet points marked by small tan squares. Below that is "Root Cause:" section with one explanatory equation-style sentence. Bottom left shows source citation. Color palette: beige background, dark teal headings, black text, tan accent squares.
-182|
-183|### Meaning & Interpretation
-184|- **"425,000 patients travel abroad for treatment annually"**: Bangladesh loses roughly half a million patients per year to foreign healthcare systems. This is both a human tragedy (people can't get care at home) and an economic drain.
-185|- **"46% less likely to have adequate ANC (recent migrants)"**: Recent rural-to-urban migrants have significantly worse maternal health outcomes. Antenatal Care (ANC) is critical for safe pregnancies — this gap means more maternal and infant deaths.
-186|- **"3.5x more likely to use healthcare (urban vs. rural)"**: Urban residents use healthcare at 3.5 times the rate of rural residents. This isn't because urbanites are sicker — it's because rural healthcare is so bad that people simply don't access it even when they need it.
-187|- **Horizontal bar chart (1.0-5.0)**: The extreme skew toward 1.0 (reaching ~67) vs. minimal values for 2.0-5.0 suggests a "Pareto" or heavy-tailed distribution — possibly representing that the vast majority of something (migration, demand, or burden) is concentrated in one category.
-188|- **"67% of medical tourists go to India"**: India is the dominant destination for Bangladeshi medical tourists. This makes geographic sense (shared border, cultural familiarity, better English), but it means $500M+ leaves Bangladesh annually.
-189|- **"$500M+ annually drained"**: This is a massive economic hemorrhage. Money that could be building local healthcare infrastructure is instead going to Indian hospitals.
-190|- **"62% less likely to achieve full child immunization"**: Recent migrants have dramatically worse child health outcomes. This intergenerational effect means healthcare gaps perpetuate across generations.
-191|- **"Urban non-migrants use 3.5x more healthcare than rural residents"**: Reinforces the access disparity — urban residents have facilities nearby, rural residents don't.
-192|- **"Rural-to-urban migrants strain Dhaka's already overloaded facilities"**: Migration creates a vicious cycle — rural people come to Dhaka for care, making Dhaka's hospitals even more overcrowded.
-193|- **Root Cause equation**: "Trust deficit in local healthcare + uneven distribution of quality facilities + lack of rural specialist care = concentration of demand in Dhaka" — this is the thesis statement. The problem isn't just "not enough hospitals" — it's that good hospitals are concentrated in Dhaka, rural areas have nothing, so everyone floods to Dhaka, which then collapses under the weight.
-194|- **Source citations**: Frontiers Public Health 2025, BEA Bangladesh Medical Tourism Study, PMC Dhaka Migration Study 2020 — credible academic and institutional sources.
-195|
-196|### PPTX Verification
-197|✅ **MATCHED (with note)** — PPTX Slide 6 contains all the bullet points, root cause text, and source citation exactly as shown. The large statistic numbers (425,000, 46%, 3.5x) and the title were not captured in the raw PPTX text extraction, likely due to text box grouping. The horizontal bar chart is a visual element not present in PPTX text extraction. All textual content matches perfectly.
-198|
-199|---
-200|
-201|## Page 7: 7.jpg
-202|
-203|### Extracted Text
-204|- **Section number (left side):** 02
-205|- **Main heading (inside black rectangular box):** THE SOLUTION & ROADMAP
-206|- **Subtitle (split across two lines):** Introducing OneHealth: AI-Powered Public / Health Infrastructure
-207|
-208|### Vision Analysis
-209|Section title slide for the second major section. Large bold "02" in black serif font on the left side. Upper-center has a solid black rectangular box with "THE SOLUTION & ROADMAP" in white bold sans-serif capitals. Below the box, the subtitle "Introducing OneHealth: AI-Powered Public Health Infrastructure" in smaller black serif font, split across two lines. White background with grey decorative dot patterns: grid-like halftone pattern fading out in the top-left corner, and a sweeping curved wave pattern in the bottom-right corner. Layout mirrors Page 3's structure but with "02" instead of "01", maintaining visual consistency across section dividers.
-210|
-211|### Meaning & Interpretation
-212|- **"02" numbering**: Indicates this is the second major section of the presentation, continuing the structured format established in Page 3.
-213|- **"THE SOLUTION & ROADMAP"**: This is the pivot point of the entire presentation. After spending three slides diagnosing the crisis (pages 3-6), the presentation now shifts to presenting the answer.
-214|- **"Introducing OneHealth"**: The project name is formally introduced as the proposed solution to the crisis just described.
-215|- **"AI-Powered Public Health Infrastructure"**: Clarifies the technical approach — this isn't just an app or a website, it's infrastructure (foundational systems) powered by artificial intelligence.
-216|- **Visual consistency with Page 3**: Using the same design language (black box, white text, large section number, grey dot patterns) reinforces that this is a structured, two-part presentation: Problem (01) → Solution (02).
-217|- **Section purpose**: This slide serves as the bridge between the problem analysis and the technical solution. It tells the audience: "Now that you understand how bad things are, here's what we're going to build."
-218|
-219|### PPTX Verification
-220|✅ **MATCHED** — PPTX Slide 7 contains identical text: "THE SOLUTION & ROADMAP" as the main heading, "Introducing OneHealth: AI-Powered Public Health Infrastructure" as the subtitle, and "02" as the section number. The image accurately represents the PPTX slide structure.
-221|
-222|---
-223|
-224|## Page 8: 8.jpg
-225|
-226|### Extracted Text
-227|- **Title:** OneHealth Vision: From Hospital Rooms to Every Citizen's Pocket
-228|- **Definition box:** "OneHealth is an **AI-powered public health infrastructure platform** that combines voice AI, multilingual support, medical knowledge bases, and hospital integration to create comprehensive healthcare access for every Dhaka citizen."
-229|- **Section header:** THREE ACCESS CHANNELS — NO ONE LEFT BEHIND
-230|  - **Voice Calls (telephone handset icon):** Feature phone compatible. AI calling agents in Bangla. No internet required. Accessible to elderly and low-literacy populations.
-231|  - **Mobile App (smartphone icon):** Full-featured app for smartphone users. Visual symptom checker, appointment booking, health records, and educational content.
-232|  - **Messenger (chat bubbles icon):** Text-based chat via SMS and messaging platforms. Low data usage. Suitable for semi-literate users and quick queries.
-233|- **Section header:** CORE PRINCIPLE
-234|  - **Boxed text:** "OneHealth does not replace doctors. IT managing the Crowd" (IT and Crowd capitalized)
-235|- **Design elements:** Thick horizontal tan/gold line under title, thin horizontal gold/tan line at bottom.
-236|
-237|### Vision Analysis
-238|Slide titled "OneHealth Vision: From Hospital Rooms to Every Citizen's Pocket" with off-white/cream background, black text, and tan/gold accent lines. Top has title in large bold serif font with a thick tan horizontal line beneath it. Below is a white rectangular definition box containing the platform description with "AI-powered public health infrastructure platform" bolded. Then "THREE ACCESS CHANNELS — NO ONE LEFT BEHIND" section header in bold uppercase serif, followed by three equal-width columns on light beige backgrounds:
-239|- **Left:** Black telephone handset icon + "Voice Calls" + description about feature phone compatibility, Bangla AI agents, no internet required
-240|- **Center:** Black smartphone outline icon + "Mobile App" + description about symptom checker, appointments, health records, education
-241|- **Right:** Black chat bubbles icon + "Messenger" + description about SMS/text chat, low data, semi-literate users
-242|Below the columns is "CORE PRINCIPLE" section header in bold uppercase serif, with a wide light peach/beige box containing centered bold text: "OneHealth does not replace doctors. IT managing the Crowd". Thin gold/tan line at the very bottom. Mix of serif fonts throughout. Simple flat black vector icons.
-243|
-244|### Meaning & Interpretation
-245|- **"From Hospital Rooms to Every Citizen's Pocket"**: This is the vision statement — moving healthcare from physical hospitals (where only some people can access it) to digital channels accessible anywhere, anytime.
-246|- **Definition box**: Clearly positions OneHealth as an "AI-powered public health infrastructure platform" — emphasizing it's foundational systems, not just a consumer app. The four pillars are: voice AI, multilingual support, medical knowledge bases, and hospital integration.
-247|- **"THREE ACCESS CHANNELS — NO ONE LEFT BEHIND"**: The inclusivity mantra. The team is explicitly designing for the most marginalized: elderly, low-literacy, poor, rural, semi-literate. This is unusual for tech projects that usually target only smartphone users.
-248|- **Voice Calls channel**: Targets feature phones (not smartphones) — still the majority of phones in Bangladesh. Bangla language AI agents mean no English literacy required. "No internet required" is critical — many rural areas have poor or no internet connectivity. This is the most inclusive channel.
-249|- **Mobile App channel**: Targets smartphone users with richer features — visual symptom checker (camera-based diagnosis?), appointment booking, electronic health records, educational content. This is the premium channel.
-250|- **Messenger channel**: SMS and messaging platforms (like WhatsApp) with low data usage. Bridges the gap between feature phones and smartphones — text-based but more interactive than voice alone.
-251|- **"CORE PRINCIPLE: OneHealth does not replace doctors. IT managing the Crowd"**: This is the ethical/philosophical anchor. The AI is not meant to eliminate human doctors — it's meant to manage the crowd (the flood of patients), triage them, and route them appropriately. Doctors remain the final decision-makers. The capitalization of "IT" and "Crowd" suggests this might be an acronym or branded concept.
-252|- **Design choice of three columns**: Visually reinforces the "no one left behind" message — three distinct paths to the same destination (healthcare access), each tailored to a different user profile.
-253|
-254|### PPTX Verification
-255|✅ **MATCHED** — PPTX Slide 8 contains all text: the title, definition box content, "THREE ACCESS CHANNELS — NO ONE LEFT BEHIND" header, all three channel descriptions (Voice Calls, Mobile App, Messenger), "CORE PRINCIPLE" header, and the "OneHealth does not replace doctors. IT managing the Crowd" text. The image accurately represents the PPTX slide.
-256|
-257|---
-258|
-259|## Page 9: 9.jpg
-331|
-332|### Extracted Text
-333|- **Title:** Hospital Deployment: AI Health Education & Appointments
-334|- **Phase 1 header:** Months 1-18 | 2-3 Pilot Hospitals | Dhaka City
-335|  - **Appointment Automation** (calendar with checkmark icon)
-336|  - **Antibiotic Awareness** (medication pill/capsule icon)
-337|  - **Voice-Based Support** (microphone icon)
-338|  - **Feature Phone AI Calling** (telephone handset icon)
-339|  - **AI Health Education Assistant** (robot/AI assistant icon)
-340|- **Phase 2 header:** Months 18-36 | All Dhaka City Corporation Areas
-341|  - Population-scale health education campaigns
-342|  - Community health worker support tools
-343|  - Real-time public health dashboards
-344|  - Community clinic partnership
-345|  - DHIS2 integration
-346|
-347|### Vision Analysis
-348|Clean minimal presentation slide with soft off-white/cream background and muted professional color palette. Top has main title "Hospital Deployment: AI Health Education & Appointments" in dark charcoal serif font with a short thin horizontal muted orange/terracotta accent line beneath it. Then "Phase 1" header: "Months 1-18 | 2-3 Pilot Hospitals | Dhaka City". Below are 5 light beige rectangular feature cards in 2 rows (3 top, 2 bottom), each with a small flat minimalist icon on the left and dark sans-serif text:
-349|- Top row: calendar+checkmark icon "Appointment Automation", pill icon "Antibiotic Awareness", microphone icon "Voice-Based Support"
-350|- Bottom row: telephone icon "Feature Phone AI Calling", robot/AI icon "AI Health Education Assistant"
-351|Below the cards is "Phase 2" header: "Months 18-36 | All Dhaka City Corporation Areas". Then 5 bullet points in 2 columns with small solid muted orange square bullets:
-352|- Left column: Population-scale health education campaigns, Community health worker support tools, Real-time public health dashboards
-353|- Right column: Community clinic partnership, DHIS2 integration
-354|No charts or additional graphics beyond the simple flat icons and text.
-355|
-356|### Meaning & Interpretation
-357|- **"Hospital Deployment: AI Health Education & Appointments"**: This slide outlines the practical implementation plan — how OneHealth will actually be rolled out in real hospitals, starting with appointment systems and health education.
-358|- **Phase 1 (Months 1-18 | 2-3 Pilot Hospitals | Dhaka City)**: A conservative, evidence-based approach. Instead of launching everywhere at once, they'll test in just 2-3 hospitals over 18 months. This allows for iteration, bug fixes, and proof of concept before scaling.
-359|- **Appointment Automation**: Reduces the administrative burden on hospital staff and eliminates long queues. Patients can book appointments digitally, reducing overcrowding in waiting areas.
-360|- **Antibiotic Awareness**: Addresses the AMR (Antimicrobial Resistance) crisis mentioned in Page 4. Educating patients about proper antibiotic use can reduce drug-resistant infections — a major public health threat in Bangladesh.
-361|- **Voice-Based Support**: Provides accessibility for users who can't or don't want to use text-based interfaces. Critical for elderly and low-literacy populations.
-362|- **Feature Phone AI Calling**: The most inclusive channel — works on basic phones without internet. This is essential for Bangladesh where feature phones still dominate in rural and low-income areas.
-363|- **AI Health Education Assistant**: An AI-powered chatbot/assistant that answers health questions, provides preventive care information, and guides users to appropriate services. This reduces the burden on human doctors for routine queries.
-364|- **Phase 2 (Months 18-36 | All Dhaka City Corporation Areas)**: After successful pilot testing, the system scales to all of Dhaka City Corporation areas — a significant expansion from 2-3 hospitals to city-wide coverage.
-365|- **Population-scale health education campaigns**: Using the platform to broadcast health information to millions of citizens — not just individual consultations, but public health messaging at scale.
-366|- **Community health worker support tools**: Empowering frontline workers (community health volunteers) with digital tools to better serve their communities. This bridges the digital platform with on-ground human networks.
-367|- **Real-time public health dashboards**: Giving health authorities live data on disease patterns, hospital capacity, patient flows, and outbreaks. This enables data-driven policy decisions and faster response to health emergencies.
-368|- **Community clinic partnership**: Integrating with existing neighborhood health clinics rather than replacing them. This respects the existing healthcare ecosystem and leverages local trust networks.
-369|- **DHIS2 integration**: DHIS2 (District Health Information Software 2) is the standard open-source health information system used in Bangladesh and across low/middle-income countries. Integrating with it means OneHealth's data flows into the national health management system — ensuring interoperability and government buy-in.
-370|- **The 3-year timeline**: Shows realistic, phased planning. Month 1-18 for pilot, 18-36 for scale. This demonstrates project management maturity and understanding that digital health transformations don't happen overnight.
-371|
-372|### PPTX Verification
-373|✅ **MATCHED** — PPTX Slide 9 contains all text: the title, Phase 1 and Phase 2 headers with timelines, all five feature card descriptions (Appointment Automation, Antibiotic Awareness, Voice-Based Support, Feature Phone AI Calling, AI Health Education Assistant), and all five Phase 2 bullet points (Population-scale health education campaigns, Community health worker support tools, Real-time public health dashboards, Community clinic partnership, DHIS2 integration). The image accurately represents the PPTX slide.
-374|
-375|---
-376|## Page 10: 10.jpg
-260|
-261|### Extracted Text
-262|- **Title:** System Architecture: How OneHealth Works
-263|- **Subtitle:** CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK
-264|- **Left-to-right user flow:**
-265|  - **USER (Feature Phone):** User calls Helpline Number
-266|  - **Telephony Gateway:** Twilio / Telco API / Call Receive & Audio Stream
-267|  - **AGENT 1: Linguistic Guard (ASR & TTS):** Speech-to-Text (Whisper / ASR), Bangla/Banglish Understanding, Text-to-Speech (ElevenLabs TTS)
-268|  - **AGENT 2: Antibiotic Stewardship & Triage Agent:** Symptom Analysis, Antibiotic Misuse Detection, Risk Scoring, Awareness & Advice
-269|  - **AGENT 3: Operational Agent (Booking Orchestrator):** Specialist Recommendation, Hospital API Integration, Slot Checking, Appointment Booking, SMS Confirmation
-270|  - **EXTERNAL SYSTEMS:** Hospital Databases, Doctor Schedules, APIs & SMS Gateway
-271|- **Lower backend components:**
-272|  - **Central Knowledge Base (RAG):** Medical Guidelines, Drug DB, AMR Information, Bangla Medical Corpus
-273|  - **Monitoring & Analytics Dashboard:** Public Health Insights, AMR Trends, Usage Analytics
-274|- **Footer compliance text:** End-to-end encryption | Local data storage (Bangladesh) | Digital Security Act compliance | Anonymization | Audit logging
-275|
-276|### Vision Analysis
-277|System architecture diagram slide titled "System Architecture: How OneHealth Works" with plain off-white background and thin orange horizontal lines under the title and at the bottom. Subtitle "CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK" in all caps centered below the title. Left-to-right user flow with bordered boxes in distinct pastel colors:
-278|- **USER (Feature Phone):** White box with light grey border, containing illustration of dark blue/black feature phone with blue speech bubble and blue curved arrow, text "User calls Helpline Number"
-279|- **Telephony Gateway:** Light green box with red Twilio logo and text "Twilio / Telco API / Call Receive & Audio Stream"
-280|- **AGENT 1: Linguistic Guard (ASR & TTS):** Light mint green box with microphone→document+speaker flow diagram, bullets: Speech-to-Text (Whisper / ASR), Bangla/Banglish Understanding, Text-to-Speech (ElevenLabs TTS)
-281|- **AGENT 2: Antibiotic Stewardship & Triage Agent:** Light peach/orange box with red medical shield+white cross icon and red antibiotic pill, bullets: Symptom Analysis, Antibiotic Misuse Detection, Risk Scoring, Awareness & Advice
-282|- **AGENT 3: Operational Agent (Booking Orchestrator):** Light blue box with blue calendar+checkmark icon, bullets: Specialist Recommendation, Hospital API Integration, Slot Checking, Appointment Booking, SMS Confirmation
-283|- **EXTERNAL SYSTEMS:** Light lavender/purple box with server stack icon "Hospital Databases", calendar icon "Doctor Schedules", curly brace API icon + purple SMS bubble "APIs & SMS Gateway"
-284|Below the flow: **Central Knowledge Base (RAG):** Gold/yellow gradient box with text "Medical Guidelines, Drug DB, AMR Information, Bangla Medical Corpus", connected from all three agents. **Monitoring & Analytics Dashboard:** Light blue box below RAG with presentation/board, bar chart, line/bar chart icons, text "Public Health Insights, AMR Trends, Usage Analytics". Footer has small grey compliance text: End-to-end encryption | Local data storage (Bangladesh) | Digital Security Act compliance | Anonymization | Audit logging. Black connecting lines with dots between all components.
-285|
-286|### Meaning & Interpretation
-287|- **"System Architecture: How OneHealth Works"**: This is the technical deep-dive slide — the first time the presentation shows *how* the AI actually functions, not just what it does.
-288|- **"CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK"**: The technical architecture description. "Cloud-native" means it runs on cloud infrastructure (scalable, elastic). "Multi-agent" means multiple specialized AI agents working together (not one monolithic AI). "LLM" means Large Language Model — the AI is powered by language models like GPT or similar.
-289|- **USER (Feature Phone)**: The entry point is a basic feature phone, not a smartphone. A user simply calls a helpline number — no app download, no internet, no digital literacy required. This is the ultimate inclusivity design choice.
-290|- **Telephony Gateway with Twilio**: Twilio is a cloud communications platform that handles phone calls and SMS programmatically. The gateway receives the call, converts audio to a stream, and passes it to the AI agents. This is the bridge between the analog telephone network and the digital AI system.
-291|- **AGENT 1: Linguistic Guard (ASR & TTS)**: The first AI agent handles all language processing:
-292|  - **ASR (Automatic Speech Recognition)**: Converts the user's spoken Bangla/Banglish into text. Whisper is OpenAI's speech recognition model, known for multilingual capability.
-293|  - **Bangla/Banglish Understanding**: The AI must understand not just standard Bangla, but also "Banglish" (Bangla written in Roman script or mixed with English) — common in Bangladesh.
-294|  - **TTS (Text-to-Speech)**: Converts the AI's text responses back into spoken Bangla. ElevenLabs is a high-quality TTS provider.
-295|  - **"Linguistic Guard"**: This agent ensures language quality — it's the gatekeeper for all communication, making sure the AI understands the user and the user understands the AI.
-296|- **AGENT 2: Antibiotic Stewardship & Triage Agent**: The medical reasoning agent:
-297|  - **Symptom Analysis**: Interprets what the user is describing to understand their health problem.
-298|  - **Antibiotic Misuse Detection**: Specifically monitors for inappropriate antibiotic requests — a critical feature given the AMR crisis (Page 4). The AI can detect when someone is asking for antibiotics they don't need and educate them instead.
-299|  - **Risk Scoring**: Assigns a urgency level to the symptoms — determining if this is a routine issue, needs a doctor soon, or is an emergency.
-300|  - **Awareness & Advice**: Provides health education and guidance, not just diagnosis.
-301|- **AGENT 3: Operational Agent (Booking Orchestrator)**: The action agent that connects users to care:
-302|  - **Specialist Recommendation**: Based on the symptoms and risk score, recommends the right type of doctor.
-303|  - **Hospital API Integration**: Connects to hospital systems to check availability.
-304|  - **Slot Checking**: Finds open appointment times.
-305|  - **Appointment Booking**: Actually books the appointment.
-306|  - **SMS Confirmation**: Sends a text message confirmation — works even on feature phones.
-307|- **EXTERNAL SYSTEMS**: The real-world systems the AI connects to:
-308|  - **Hospital Databases**: Patient records, medical history.
-309|  - **Doctor Schedules**: When doctors are available.
-310|  - **APIs & SMS Gateway**: The technical connectors that let the AI talk to hospital software and send SMS messages.
-311|- **Central Knowledge Base (RAG)**: All three agents pull from a shared knowledge base using RAG (Retrieval-Augmented Generation) — meaning the AI looks up relevant medical information before responding, reducing hallucinations and improving accuracy. Contains medical guidelines, drug databases, AMR information, and a Bangla medical corpus.
-312|- **Monitoring & Analytics Dashboard**: Tracks system performance and public health trends:
-313|  - **Public Health Insights**: What diseases are being reported, where, when.
-314|  - **AMR Trends**: Tracking antibiotic misuse patterns over time.
-315|  - **Usage Analytics**: How the system is being used, which features are most valuable.
-316|- **Footer compliance text**: Shows the team has thought about legal/regulatory requirements:
-317|  - **End-to-end encryption**: All calls and data are encrypted for privacy.
-318|  - **Local data storage (Bangladesh)**: Data is stored within Bangladesh, not in foreign servers — important for data sovereignty and compliance.
-319|  - **Digital Security Act compliance**: Bangladesh's cybersecurity law.
-320|  - **Anonymization**: User data is anonymized to protect privacy.
-321|  - **Audit logging**: All system actions are logged for accountability.
-322|
-323|### PPTX Verification
-324|✅ **MATCHED (with note)** — PPTX Slide 10 contains the subtitle text "CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK" as shown in the image. However, the full architecture diagram content (USER, Telephony Gateway, AGENT 1/2/3, EXTERNAL SYSTEMS, Central Knowledge Base, Monitoring & Analytics Dashboard, and all bullet points) was not captured in the raw PPTX text extraction, suggesting these are rendered as graphics, grouped shapes, or text within diagram objects in the PPTX file. The high-level subtitle matches; the detailed diagram content is present in the image but not in the PPTX text extraction.
-325|
-326|---
-327|
-328|---
-329|
-330|
+
+### Extracted Text
+- ONEHEALTH
+- 8 July 2026
+- Akash Kumar Pal
+- AI-Powered Public Health Infrastructure Platform for Dhaka City
+- Team Makezaa
+- A Data-Driven Policy Proposal for Transforming Urban Healthcare in Bangladeshic Health Infrastructure Platform for Dhaka City
+- July 2026 | University Research Project Proposal
+- Present to the Faculty of CSE
+- Bangladesh University
+
+### Vision Analysis
+Title/cover page with clean white background, black text, grey decorative dot patterns (quarter-circle halftone at top right, wave-like cluster at bottom left). Bangladesh University crest/logo at top left. "Team Makezaa" at top center. Main title "ONEHEALTH" in extremely large bold capitals. Subtitle below. Descriptive summary paragraph with typo "Bangladeshic". Metadata line "July 2026 | University Research Project Proposal". Footer/presentation details at bottom right.
+
+### Meaning & Interpretation
+- **ONEHEALTH**: The project name, likely referencing the "One Health" concept (interconnected human, animal, and environmental health), but here focused on digital public health infrastructure.
+- **"A Data-Driven Policy Proposal..."**: Indicates this is not just a technical project but a policy-level intervention proposal for Dhaka's urban healthcare.
+- **"Bangladeshic" typo**: Should read "Bangladeshi" — indicates a draft version.
+- **Date (8 July 2026)**: Projected/future date, suggesting this is a forward-looking proposal or scenario planning document.
+- **"Present to the Faculty of CSE"**: Academic context — likely a final year project or thesis defense at Bangladesh University's Computer Science and Engineering department.
+
+### PPTX Verification
+✅ **MATCHED** — PPTX Slide 1 contains identical text including the "Bangladeshic" typo. The image accurately represents the PPTX slide content.
+
+---
+
+## Page 2: 2.jpg
+
+### Extracted Text
+- **Section header (top left):** OVERVIEW
+- **Main heading (large, split across two lines):** Executive Summary
+- **Subheading:** A research-backed proposal for AI-powered public health transformation
+- **Section 01:** The Crisis — Healthcare problems in Dhaka: AMR, overcrowding, access barriers
+- **Section 02:** The Solution And Roadmap — OneHealth platform: AI architecture, phases, and system design
+
+### Vision Analysis
+Minimalist two-column vertical layout slide. Left column (~1/3 width) has pale cool off-white background with the section header "OVERVIEW" in small golden-tan all-caps, then "Executive Summary" in large bold dark serif font, followed by the subheading and a thin golden-tan horizontal accent line. Right column (~2/3 width) has warm cream background containing two numbered sections: **01 The Crisis** and **02 The Solution And Roadmap**, each with a description in dark teal heading + medium cool gray body text. No decorative images, icons, or charts — purely text-based for readability. Color palette: muted golden-tan accents, dark navy/charcoal headings, dark teal section titles, medium cool gray body text.
+
+### Meaning & Interpretation
+- **"Executive Summary"**: This slide is the roadmap slide for the entire presentation — it tells the audience what the talk will cover.
+- **Section 01 "The Crisis"**: The first half of the presentation diagnoses Dhaka's healthcare failures: AMR (Antimicrobial Resistance — drug-resistant infections), overcrowding (too many patients, too few facilities), and access barriers (poor people can't reach or afford care).
+- **Section 02 "The Solution And Roadmap"**: The second half proposes OneHealth as the answer, covering the technical AI architecture, phased implementation plan, and overall system design.
+- **"A research-backed proposal"**: The team is positioning this as evidence-based, not just a concept — citing real data and studies.
+- **The two-column structure**: Visually separates "what we're talking about" (left) from "what we'll cover" (right), a common executive-summary pattern.
+
+### PPTX Verification
+✅ **MATCHED** — PPTX Slide 2 contains identical text content: Executive Summary, the subheading, and both numbered sections (01 The Crisis / 02 The Solution And Roadmap) with matching descriptions. The image accurately represents the PPTX slide.
+
+---
+
+## Page 3: 3.jpg
+
+### Extracted Text
+- **Section number (left side):** 01
+- **Main heading (inside black rectangular box):** THE CRISIS
+- **Subtitle:** Dhaka's Healthcare System is at a Breaking Point
+
+### Vision Analysis
+Section title slide with a high-contrast black-and-white color scheme. Large bold "01" in black serif font on the left side. Upper-center has a solid black rectangular box with "THE CRISIS" in white bold sans-serif capitals. Below the box, the subtitle "Dhaka's Healthcare System is at a Breaking Point" in smaller black serif font. White background with grey decorative dot patterns: semi-circular halftone arc in the top-left corner, and a sweeping wave-like curve of grey dots in the bottom-right corner. Layout uses significant negative space with asymmetrical but balanced composition — the large "01" on the left balances the text block on the right.
+
+### Meaning & Interpretation
+- **"THE CRISIS"**: This is a dramatic section opener. The all-caps white text on a black background signals urgency and severity — this isn't a minor problem, it's a systemic collapse.
+- **"Dhaka's Healthcare System is at a Breaking Point"**: The subtitle explicitly states that Dhaka's medical infrastructure is overwhelmed and near failure. This sets up the need for the OneHealth solution.
+- **"01" numbering**: Indicates this is the first major section of the presentation, establishing a clear structure.
+- **Visual design choice**: The stark black box with white text creates visual weight and gravitas, reinforcing the seriousness of the healthcare crisis being presented.
+- **Section purpose**: This slide serves as a divider/transition — after the executive summary, the presentation now dives deep into the specific problems.
+
+### PPTX Verification
+✅ **MATCHED** — PPTX Slide 3 contains identical text: "THE CRISIS" as the main heading, "Dhaka's Healthcare System is at a Breaking Point" as subtitle, and "01" as the section number. The image accurately represents the PPTX slide structure.
+
+---
+
+## Page 4: 4.jpg
+
+### Extracted Text
+- **Title:** Dhaka's Healthcare Burden: A City on the Brink
+- **Top statistics (3 columns):**
+  - **23M+** — Dhaka population, one of the world's most densely populated cities
+  - **80%** — of ED patients are non-emergency cases, overwhelming the system
+  - **4-6 hrs** — average waiting time; only 58.7%-74.5% treated within target
+- **Key System Failures:**
+  - Tertiary hospitals overcrowded due to limited primary/secondary care
+  - Staffing shortages: 11.6% - 53.1% across departments
+  - Emergency specialist shortage: 75.6% - 79.5%
+  - 917 cases/year of patients unable to get ward beds
+  - 8-50 additional beds needed per hospital ED
+- **Source:** National Audit Report 2018, Bangladesh; Hospaccx Healthcare Consulting
+
+### Vision Analysis
+Infographic slide titled "Dhaka's Healthcare Burden: A City on the Brink" with cream/off-white background, black text, and tan accent lines. Header has the title in large bold serif font with a short tan horizontal line beneath it. Top section displays three major statistics in a row: **23M+** (Dhaka population), **80%** (ED patients non-emergency), and **4-6 hrs** (average waiting time). Below the left statistic is a vertical bar chart with Y-axis 0-30 and X-axis labeled 1.0-5.0, showing five black bars of varying heights (approximately 12, 22, 24, 30, 12). Right side contains "Key System Failures:" section with five bullet points. Bottom left shows the source citation. Thin tan line runs across the very bottom.
+
+### Meaning & Interpretation
+- **"23M+"**: Dhaka is one of the most densely populated cities in the world — this scale explains why the healthcare system is overwhelmed. More people = more demand on limited facilities.
+- **"80% of ED patients are non-emergency cases"**: This is a critical failure. Emergency departments are designed for life-threatening cases, but most people using them have minor issues. This happens because primary care (local clinics) is either unavailable, too expensive, or too far away — so people go to the only place they can get care: the emergency room.
+- **"4-6 hrs average waiting time"**: Patients wait half a day in emergency rooms. Only 58.7%-74.5% are treated within target time — meaning up to 41.3% don't get timely care at all.
+- **Bar chart (1.0-5.0)**: Likely represents some metric across 5 categories (possibly hospital districts, years, or facility types). The peak at 4.0 reaching 30 suggests the worst-case scenario or highest burden point.
+- **Tertiary hospital overcrowding**: Dhaka's healthcare system is top-heavy — most resources go to big specialized hospitals, while primary care (neighborhood clinics) and secondary care (district hospitals) are underdeveloped. This forces everyone, even for minor issues, to go to the biggest hospitals.
+- **Staffing shortages (11.6%-53.1%)**: Critical shortage of healthcare workers across departments. The wide range suggests some departments are barely functional while others are slightly better.
+- **Emergency specialist shortage (75.6%-79.5%)**: Nearly 80% shortage of emergency medicine specialists — meaning even if you get to the ER, there may not be enough trained doctors to treat you properly.
+- **917 cases/year unable to get ward beds**: Almost 1,000 patients annually are turned away from hospital wards because there are no beds. They either leave untreated or are forced to go to more expensive private facilities.
+- **8-50 additional beds needed per hospital ED**: Each emergency department needs 8 to 50 more beds just to handle current demand. This quantifies the physical infrastructure gap.
+- **Source citations**: The data comes from Bangladesh's National Audit Report 2018 (government audit) and Hospaccx Healthcare Consulting (private consultancy) — lending credibility to the statistics.
+
+### PPTX Verification
+✅ **MATCHED (with note)** — PPTX Slide 4 contains all the text bullet points and the source citation exactly as shown in the image. The large statistic numbers (23M+, 80%, 4-6 hrs) and the bar chart are present in the image but were not captured in the raw PPTX text extraction, suggesting they may be rendered as graphics or grouped objects in the PPTX file. The textual content matches perfectly.
+
+---
+
+## Page 5: 5.jpg
+
+### Extracted Text
+- **Title:** The Elderly & Vulnerable: 16.5 Million, 95% with Health Problems
+- **Key statistics (3 columns):**
+  - **16.5M** — People aged 60+ (10% of population, 2024)
+  - **95%** — Of elderly face health problems
+  - **19%** — Projected 60+ share by 2050
+- **Critical Challenges for Elderly Care:**
+  - 44% of elderly live in poverty; 63% are jobless
+  - Only 29% receive any pension support
+  - Women spend 5.5 more years in poor health than men (bolded)
+  - No specialized geriatric care in most facilities
+  - Rural elderly face distance, cost, and transport barriers
+  - Changing family structures reduce traditional care support
+  - Life expectancy 72.3 yrs but healthy life expectancy much lower
+- **Source:** WHO Bangladesh Healthy Ageing Factsheet 2024; UN Population Division; Frontiers Public Health 2025
+
+### Vision Analysis
+Infographic slide titled "The Elderly & Vulnerable: 16.5 Million, 95% with Health Problems" with a faded sepia-toned background photograph of two elderly men (out of focus, serving as texture). Top section displays three large statistics: **16.5M** (people aged 60+), **95%** (of elderly face health problems), **19%** (projected 60+ share by 2050). Bottom left has a vertical bar chart with Y-axis 0-35 and X-axis 1.0-6.0 showing upward trend bars (heights approximately 12, 14, 16, 21, 28, 33). Right side lists "Critical Challenges for Elderly Care:" with seven bullet points marked by small orange-brown squares. Bottom left shows source citation. Thin orange-brown line at the bottom. Color palette: monochromatic black/white/grey with muted orange-brown accents. Mix of serif title font and sans-serif body text.
+
+### Meaning & Interpretation
+- **"16.5M people aged 60+"**: Bangladesh has 16.5 million elderly citizens (10% of population in 2024). This is a massive demographic group that the healthcare system is failing to serve adequately.
+- **"95% of elderly face health problems"**: Almost all elderly Bangladeshis have health issues — yet the system has almost no specialized care for them. This is a massive unmet need.
+- **"19% projected 60+ share by 2050"**: The elderly population will nearly double as a share of total population by 2050. Without intervention, the healthcare crisis will get dramatically worse.
+- **Bar chart (1.0-6.0)**: Shows a steady upward trend from ~12 to ~33. Likely represents aging population growth over time or increasing burden metrics. The consistent upward slope visually reinforces the "aging tsunami" narrative.
+- **Background photo of two elderly men**: Humanizes the statistics — these aren't just numbers, they are real people. The sepia tone and out-of-focus treatment keeps them as emotional texture rather than distraction.
+- **44% in poverty; 63% jobless**: Economic vulnerability means elderly can't afford private healthcare. They depend entirely on an already broken public system.
+- **Only 29% receive pension support**: Less than 1 in 3 elderly have any financial safety net. The rest rely on family or charity.
+- **Women spend 5.5 more years in poor health**: Elderly women are significantly sicker for longer — likely due to lifetime healthcare access barriers, malnutrition, and maternal health neglect.
+- **No specialized geriatric care**: There are almost no dedicated elderly care facilities or trained geriatricians in Bangladesh. Old people are treated in general hospitals that aren't equipped for their needs.
+- **Rural elderly face barriers**: Distance, cost, and transport — rural elderly can't reach Dhaka's already-overwhelmed hospitals, and their local facilities are even worse.
+- **Changing family structures**: Traditional joint families (where elders were cared for at home) are breaking down as people migrate to cities. Elders are increasingly isolated and without caregivers.
+- **Life expectancy 72.3 vs healthy life expectancy much lower**: People are living longer, but spending more years in poor health. This "morbidity gap" means more years of disability and dependency.
+
+### PPTX Verification
+✅ **MATCHED (with note)** — PPTX Slide 5 contains all the bullet points and the source citation exactly as shown. The large statistic numbers (16.5M, 95%, 19%) and the title were not captured in the raw PPTX text extraction, suggesting they may be in text boxes that the extraction missed. The background photograph and bar chart are visual elements not present in PPTX text extraction. All textual content matches perfectly.
+
+---
+
+## Page 6: 6.jpg
+
+### Extracted Text
+- **Title:** Rural-to-Dhaka Migration: Healthcare Desperation Driving Crisis
+- **Key statistics (3 boxes):**
+  - **425,000** — Patients travel abroad for treatment annually
+  - **46%** — Less likely to have adequate ANC (recent migrants)
+  - **3.5x** — More likely to use healthcare (urban vs. rural)
+- **The Migration-Healthcare Trap:**
+  - 67% of medical tourists go to India — draining $500M+ annually
+  - Recent migrants are 62% less likely to achieve full child immunization
+  - Urban non-migrants use 3.5x more healthcare than rural residents
+  - Rural-to-urban migrants strain Dhaka's already overloaded facilities
+- **Root Cause:**
+  - Trust deficit in local healthcare + uneven distribution of quality facilities + lack of rural specialist care = concentration of demand in Dhaka
+- **Source:** Frontiers Public Health 2025; BEA Bangladesh Medical Tourism Study; PMC Dhaka Migration Study 2020
+
+### Vision Analysis
+Infographic slide titled "Rural-to-Dhaka Migration: Healthcare Desperation Driving Crisis" with beige background, dark teal headings, and black text/graphics. Top section has three large statistic boxes: **425,000** (patients travel abroad for treatment annually), **46%** (less likely to have adequate ANC — Antenatal Care — for recent migrants), and **3.5x** (more likely to use healthcare, urban vs. rural). Bottom left has a horizontal bar chart with Y-axis 1.0-5.0 and X-axis 0-70, showing five bars heavily skewed toward 1.0 (extending to ~67, while 2.0-5.0 are much shorter at ~16, ~12, ~3, ~1). Right side contains "The Migration-Healthcare Trap:" section with four bullet points marked by small tan squares. Below that is "Root Cause:" section with one explanatory equation-style sentence. Bottom left shows source citation. Color palette: beige background, dark teal headings, black text, tan accent squares.
+
+### Meaning & Interpretation
+- **"425,000 patients travel abroad for treatment annually"**: Bangladesh loses roughly half a million patients per year to foreign healthcare systems. This is both a human tragedy (people can't get care at home) and an economic drain.
+- **"46% less likely to have adequate ANC (recent migrants)"**: Recent rural-to-urban migrants have significantly worse maternal health outcomes. Antenatal Care (ANC) is critical for safe pregnancies — this gap means more maternal and infant deaths.
+- **"3.5x more likely to use healthcare (urban vs. rural)"**: Urban residents use healthcare at 3.5 times the rate of rural residents. This isn't because urbanites are sicker — it's because rural healthcare is so bad that people simply don't access it even when they need it.
+- **Horizontal bar chart (1.0-5.0)**: The extreme skew toward 1.0 (reaching ~67) vs. minimal values for 2.0-5.0 suggests a "Pareto" or heavy-tailed distribution — possibly representing that the vast majority of something (migration, demand, or burden) is concentrated in one category.
+- **"67% of medical tourists go to India"**: India is the dominant destination for Bangladeshi medical tourists. This makes geographic sense (shared border, cultural familiarity, better English), but it means $500M+ leaves Bangladesh annually.
+- **"$500M+ annually drained"**: This is a massive economic hemorrhage. Money that could be building local healthcare infrastructure is instead going to Indian hospitals.
+- **"62% less likely to achieve full child immunization"**: Recent migrants have dramatically worse child health outcomes. This intergenerational effect means healthcare gaps perpetuate across generations.
+- **"Urban non-migrants use 3.5x more healthcare than rural residents"**: Reinforces the access disparity — urban residents have facilities nearby, rural residents don't.
+- **"Rural-to-urban migrants strain Dhaka's already overloaded facilities"**: Migration creates a vicious cycle — rural people come to Dhaka for care, making Dhaka's hospitals even more overcrowded.
+- **Root Cause equation**: "Trust deficit in local healthcare + uneven distribution of quality facilities + lack of rural specialist care = concentration of demand in Dhaka" — this is the thesis statement. The problem isn't just "not enough hospitals" — it's that good hospitals are concentrated in Dhaka, rural areas have nothing, so everyone floods to Dhaka, which then collapses under the weight.
+- **Source citations**: Frontiers Public Health 2025, BEA Bangladesh Medical Tourism Study, PMC Dhaka Migration Study 2020 — credible academic and institutional sources.
+
+### PPTX Verification
+✅ **MATCHED (with note)** — PPTX Slide 6 contains all the bullet points, root cause text, and source citation exactly as shown. The large statistic numbers (425,000, 46%, 3.5x) and the title were not captured in the raw PPTX text extraction, likely due to text box grouping. The horizontal bar chart is a visual element not present in PPTX text extraction. All textual content matches perfectly.
+
+---
+
+## Page 7: 7.jpg
+
+### Extracted Text
+- **Section number (left side):** 02
+- **Main heading (inside black rectangular box):** THE SOLUTION & ROADMAP
+- **Subtitle (split across two lines):** Introducing OneHealth: AI-Powered Public / Health Infrastructure
+
+### Vision Analysis
+Section title slide for the second major section. Large bold "02" in black serif font on the left side. Upper-center has a solid black rectangular box with "THE SOLUTION & ROADMAP" in white bold sans-serif capitals. Below the box, the subtitle "Introducing OneHealth: AI-Powered Public Health Infrastructure" in smaller black serif font, split across two lines. White background with grey decorative dot patterns: grid-like halftone pattern fading out in the top-left corner, and a sweeping curved wave pattern in the bottom-right corner. Layout mirrors Page 3's structure but with "02" instead of "01", maintaining visual consistency across section dividers.
+
+### Meaning & Interpretation
+- **"02" numbering**: Indicates this is the second major section of the presentation, continuing the structured format established in Page 3.
+- **"THE SOLUTION & ROADMAP"**: This is the pivot point of the entire presentation. After spending three slides diagnosing the crisis (pages 3-6), the presentation now shifts to presenting the answer.
+- **"Introducing OneHealth"**: The project name is formally introduced as the proposed solution to the crisis just described.
+- **"AI-Powered Public Health Infrastructure"**: Clarifies the technical approach — this isn't just an app or a website, it's infrastructure (foundational systems) powered by artificial intelligence.
+- **Visual consistency with Page 3**: Using the same design language (black box, white text, large section number, grey dot patterns) reinforces that this is a structured, two-part presentation: Problem (01) → Solution (02).
+- **Section purpose**: This slide serves as the bridge between the problem analysis and the technical solution. It tells the audience: "Now that you understand how bad things are, here's what we're going to build."
+
+### PPTX Verification
+✅ **MATCHED** — PPTX Slide 7 contains identical text: "THE SOLUTION & ROADMAP" as the main heading, "Introducing OneHealth: AI-Powered Public Health Infrastructure" as the subtitle, and "02" as the section number. The image accurately represents the PPTX slide structure.
+
+---
+
+## Page 8: 8.jpg
+
+### Extracted Text
+- **Title:** OneHealth Vision: From Hospital Rooms to Every Citizen's Pocket
+- **Definition box:** "OneHealth is an **AI-powered public health infrastructure platform** that combines voice AI, multilingual support, medical knowledge bases, and hospital integration to create comprehensive healthcare access for every Dhaka citizen."
+- **Section header:** THREE ACCESS CHANNELS — NO ONE LEFT BEHIND
+  - **Voice Calls (telephone handset icon):** Feature phone compatible. AI calling agents in Bangla. No internet required. Accessible to elderly and low-literacy populations.
+  - **Mobile App (smartphone icon):** Full-featured app for smartphone users. Visual symptom checker, appointment booking, health records, and educational content.
+  - **Messenger (chat bubbles icon):** Text-based chat via SMS and messaging platforms. Low data usage. Suitable for semi-literate users and quick queries.
+- **Section header:** CORE PRINCIPLE
+  - **Boxed text:** "OneHealth does not replace doctors. IT managing the Crowd" (IT and Crowd capitalized)
+- **Design elements:** Thick horizontal tan/gold line under title, thin horizontal gold/tan line at bottom.
+
+### Vision Analysis
+Slide titled "OneHealth Vision: From Hospital Rooms to Every Citizen's Pocket" with off-white/cream background, black text, and tan/gold accent lines. Top has title in large bold serif font with a thick tan horizontal line beneath it. Below is a white rectangular definition box containing the platform description with "AI-powered public health infrastructure platform" bolded. Then "THREE ACCESS CHANNELS — NO ONE LEFT BEHIND" section header in bold uppercase serif, followed by three equal-width columns on light beige backgrounds:
+- **Left:** Black telephone handset icon + "Voice Calls" + description about feature phone compatibility, Bangla AI agents, no internet required
+- **Center:** Black smartphone outline icon + "Mobile App" + description about symptom checker, appointments, health records, education
+- **Right:** Black chat bubbles icon + "Messenger" + description about SMS/text chat, low data, semi-literate users
+Below the columns is "CORE PRINCIPLE" section header in bold uppercase serif, with a wide light peach/beige box containing centered bold text: "OneHealth does not replace doctors. IT managing the Crowd". Thin gold/tan line at the very bottom. Mix of serif fonts throughout. Simple flat black vector icons.
+
+### Meaning & Interpretation
+- **"From Hospital Rooms to Every Citizen's Pocket"**: This is the vision statement — moving healthcare from physical hospitals (where only some people can access it) to digital channels accessible anywhere, anytime.
+- **Definition box**: Clearly positions OneHealth as an "AI-powered public health infrastructure platform" — emphasizing it's foundational systems, not just a consumer app. The four pillars are: voice AI, multilingual support, medical knowledge bases, and hospital integration.
+- **"THREE ACCESS CHANNELS — NO ONE LEFT BEHIND"**: The inclusivity mantra. The team is explicitly designing for the most marginalized: elderly, low-literacy, poor, rural, semi-literate. This is unusual for tech projects that usually target only smartphone users.
+- **Voice Calls channel**: Targets feature phones (not smartphones) — still the majority of phones in Bangladesh. Bangla language AI agents mean no English literacy required. "No internet required" is critical — many rural areas have poor or no internet connectivity. This is the most inclusive channel.
+- **Mobile App channel**: Targets smartphone users with richer features — visual symptom checker (camera-based diagnosis?), appointment booking, electronic health records, educational content. This is the premium channel.
+- **Messenger channel**: SMS and messaging platforms (like WhatsApp) with low data usage. Bridges the gap between feature phones and smartphones — text-based but more interactive than voice alone.
+- **"CORE PRINCIPLE: OneHealth does not replace doctors. IT managing the Crowd"**: This is the ethical/philosophical anchor. The AI is not meant to eliminate human doctors — it's meant to manage the crowd (the flood of patients), triage them, and route them appropriately. Doctors remain the final decision-makers. The capitalization of "IT" and "Crowd" suggests this might be an acronym or branded concept.
+- **Design choice of three columns**: Visually reinforces the "no one left behind" message — three distinct paths to the same destination (healthcare access), each tailored to a different user profile.
+
+### PPTX Verification
+✅ **MATCHED** — PPTX Slide 8 contains all text: the title, definition box content, "THREE ACCESS CHANNELS — NO ONE LEFT BEHIND" header, all three channel descriptions (Voice Calls, Mobile App, Messenger), "CORE PRINCIPLE" header, and the "OneHealth does not replace doctors. IT managing the Crowd" text. The image accurately represents the PPTX slide.
+
+---
+
+## Page 9: 9.jpg
+
+### Extracted Text
+- **Title:** Hospital Deployment: AI Health Education & Appointments
+- **Phase 1 header:** Months 1-18 | 2-3 Pilot Hospitals | Dhaka City
+  - **Appointment Automation** (calendar with checkmark icon)
+  - **Antibiotic Awareness** (medication pill/capsule icon)
+  - **Voice-Based Support** (microphone icon)
+  - **Feature Phone AI Calling** (telephone handset icon)
+  - **AI Health Education Assistant** (robot/AI assistant icon)
+- **Phase 2 header:** Months 18-36 | All Dhaka City Corporation Areas
+  - Population-scale health education campaigns
+  - Community health worker support tools
+  - Real-time public health dashboards
+  - Community clinic partnership
+  - DHIS2 integration
+
+### Vision Analysis
+Clean minimal presentation slide with soft off-white/cream background and muted professional color palette. Top has main title "Hospital Deployment: AI Health Education & Appointments" in dark charcoal serif font with a short thin horizontal muted orange/terracotta accent line beneath it. Then "Phase 1" header: "Months 1-18 | 2-3 Pilot Hospitals | Dhaka City". Below are 5 light beige rectangular feature cards in 2 rows (3 top, 2 bottom), each with a small flat minimalist icon on the left and dark sans-serif text:
+- Top row: calendar+checkmark icon "Appointment Automation", pill icon "Antibiotic Awareness", microphone icon "Voice-Based Support"
+- Bottom row: telephone icon "Feature Phone AI Calling", robot/AI icon "AI Health Education Assistant"
+Below the cards is "Phase 2" header: "Months 18-36 | All Dhaka City Corporation Areas". Then 5 bullet points in 2 columns with small solid muted orange square bullets:
+- Left column: Population-scale health education campaigns, Community health worker support tools, Real-time public health dashboards
+- Right column: Community clinic partnership, DHIS2 integration
+No charts or additional graphics beyond the simple flat icons and text.
+
+### Meaning & Interpretation
+- **"Hospital Deployment: AI Health Education & Appointments"**: This slide outlines the practical implementation plan — how OneHealth will actually be rolled out in real hospitals, starting with appointment systems and health education.
+- **Phase 1 (Months 1-18 | 2-3 Pilot Hospitals | Dhaka City)**: A conservative, evidence-based approach. Instead of launching everywhere at once, they'll test in just 2-3 hospitals over 18 months. This allows for iteration, bug fixes, and proof of concept before scaling.
+- **Appointment Automation**: Reduces the administrative burden on hospital staff and eliminates long queues. Patients can book appointments digitally, reducing overcrowding in waiting areas.
+- **Antibiotic Awareness**: Addresses the AMR (Antimicrobial Resistance) crisis mentioned in Page 4. Educating patients about proper antibiotic use can reduce drug-resistant infections — a major public health threat in Bangladesh.
+- **Voice-Based Support**: Provides accessibility for users who can't or don't want to use text-based interfaces. Critical for elderly and low-literacy populations.
+- **Feature Phone AI Calling**: The most inclusive channel — works on basic phones without internet. This is essential for Bangladesh where feature phones still dominate in rural and low-income areas.
+- **AI Health Education Assistant**: An AI-powered chatbot/assistant that answers health questions, provides preventive care information, and guides users to appropriate services. This reduces the burden on human doctors for routine queries.
+- **Phase 2 (Months 18-36 | All Dhaka City Corporation Areas)**: After successful pilot testing, the system scales to all of Dhaka City Corporation areas — a significant expansion from 2-3 hospitals to city-wide coverage.
+- **Population-scale health education campaigns**: Using the platform to broadcast health information to millions of citizens — not just individual consultations, but public health messaging at scale.
+- **Community health worker support tools**: Empowering frontline workers (community health volunteers) with digital tools to better serve their communities. This bridges the digital platform with on-ground human networks.
+- **Real-time public health dashboards**: Giving health authorities live data on disease patterns, hospital capacity, patient flows, and outbreaks. This enables data-driven policy decisions and faster response to health emergencies.
+- **Community clinic partnership**: Integrating with existing neighborhood health clinics rather than replacing them. This respects the existing healthcare ecosystem and leverages local trust networks.
+- **DHIS2 integration**: DHIS2 (District Health Information Software 2) is the standard open-source health information system used in Bangladesh and across low/middle-income countries. Integrating with it means OneHealth's data flows into the national health management system — ensuring interoperability and government buy-in.
+- **The 3-year timeline**: Shows realistic, phased planning. Month 1-18 for pilot, 18-36 for scale. This demonstrates project management maturity and understanding that digital health transformations don't happen overnight.
+
+### PPTX Verification
+✅ **MATCHED** — PPTX Slide 9 contains all text: the title, Phase 1 and Phase 2 headers with timelines, all five feature card descriptions (Appointment Automation, Antibiotic Awareness, Voice-Based Support, Feature Phone AI Calling, AI Health Education Assistant), and all five Phase 2 bullet points (Population-scale health education campaigns, Community health worker support tools, Real-time public health dashboards, Community clinic partnership, DHIS2 integration). The image accurately represents the PPTX slide.
+
+---
+## Page 10: 10.jpg
+
+### Extracted Text
+- **Title:** System Architecture: How OneHealth Works
+- **Subtitle:** CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK
+- **Left-to-right user flow:**
+  - **USER (Feature Phone):** User calls Helpline Number
+  - **Telephony Gateway:** Twilio / Telco API / Call Receive & Audio Stream
+  - **AGENT 1: Linguistic Guard (ASR & TTS):** Speech-to-Text (Whisper / ASR), Bangla/Banglish Understanding, Text-to-Speech (ElevenLabs TTS)
+  - **AGENT 2: Antibiotic Stewardship & Triage Agent:** Symptom Analysis, Antibiotic Misuse Detection, Risk Scoring, Awareness & Advice
+  - **AGENT 3: Operational Agent (Booking Orchestrator):** Specialist Recommendation, Hospital API Integration, Slot Checking, Appointment Booking, SMS Confirmation
+  - **EXTERNAL SYSTEMS:** Hospital Databases, Doctor Schedules, APIs & SMS Gateway
+- **Lower backend components:**
+  - **Central Knowledge Base (RAG):** Medical Guidelines, Drug DB, AMR Information, Bangla Medical Corpus
+  - **Monitoring & Analytics Dashboard:** Public Health Insights, AMR Trends, Usage Analytics
+- **Footer compliance text:** End-to-end encryption | Local data storage (Bangladesh) | Digital Security Act compliance | Anonymization | Audit logging
+
+### Vision Analysis
+System architecture diagram slide titled "System Architecture: How OneHealth Works" with plain off-white background and thin orange horizontal lines under the title and at the bottom. Subtitle "CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK" in all caps centered below the title. Left-to-right user flow with bordered boxes in distinct pastel colors:
+- **USER (Feature Phone):** White box with light grey border, containing illustration of dark blue/black feature phone with blue speech bubble and blue curved arrow, text "User calls Helpline Number"
+- **Telephony Gateway:** Light green box with red Twilio logo and text "Twilio / Telco API / Call Receive & Audio Stream"
+- **AGENT 1: Linguistic Guard (ASR & TTS):** Light mint green box with microphone→document+speaker flow diagram, bullets: Speech-to-Text (Whisper / ASR), Bangla/Banglish Understanding, Text-to-Speech (ElevenLabs TTS)
+- **AGENT 2: Antibiotic Stewardship & Triage Agent:** Light peach/orange box with red medical shield+white cross icon and red antibiotic pill, bullets: Symptom Analysis, Antibiotic Misuse Detection, Risk Scoring, Awareness & Advice
+- **AGENT 3: Operational Agent (Booking Orchestrator):** Light blue box with blue calendar+checkmark icon, bullets: Specialist Recommendation, Hospital API Integration, Slot Checking, Appointment Booking, SMS Confirmation
+- **EXTERNAL SYSTEMS:** Light lavender/purple box with server stack icon "Hospital Databases", calendar icon "Doctor Schedules", curly brace API icon + purple SMS bubble "APIs & SMS Gateway"
+Below the flow: **Central Knowledge Base (RAG):** Gold/yellow gradient box with text "Medical Guidelines, Drug DB, AMR Information, Bangla Medical Corpus", connected from all three agents. **Monitoring & Analytics Dashboard:** Light blue box below RAG with presentation/board, bar chart, line/bar chart icons, text "Public Health Insights, AMR Trends, Usage Analytics". Footer has small grey compliance text: End-to-end encryption | Local data storage (Bangladesh) | Digital Security Act compliance | Anonymization | Audit logging. Black connecting lines with dots between all components.
+
+### Meaning & Interpretation
+- **"System Architecture: How OneHealth Works"**: This is the technical deep-dive slide — the first time the presentation shows *how* the AI actually functions, not just what it does.
+- **"CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK"**: The technical architecture description. "Cloud-native" means it runs on cloud infrastructure (scalable, elastic). "Multi-agent" means multiple specialized AI agents working together (not one monolithic AI). "LLM" means Large Language Model — the AI is powered by language models like GPT or similar.
+- **USER (Feature Phone)**: The entry point is a basic feature phone, not a smartphone. A user simply calls a helpline number — no app download, no internet, no digital literacy required. This is the ultimate inclusivity design choice.
+- **Telephony Gateway with Twilio**: Twilio is a cloud communications platform that handles phone calls and SMS programmatically. The gateway receives the call, converts audio to a stream, and passes it to the AI agents. This is the bridge between the analog telephone network and the digital AI system.
+- **AGENT 1: Linguistic Guard (ASR & TTS)**: The first AI agent handles all language processing:
+  - **ASR (Automatic Speech Recognition)**: Converts the user's spoken Bangla/Banglish into text. Whisper is OpenAI's speech recognition model, known for multilingual capability.
+  - **Bangla/Banglish Understanding**: The AI must understand not just standard Bangla, but also "Banglish" (Bangla written in Roman script or mixed with English) — common in Bangladesh.
+  - **TTS (Text-to-Speech)**: Converts the AI's text responses back into spoken Bangla. ElevenLabs is a high-quality TTS provider.
+  - **"Linguistic Guard"**: This agent ensures language quality — it's the gatekeeper for all communication, making sure the AI understands the user and the user understands the AI.
+- **AGENT 2: Antibiotic Stewardship & Triage Agent**: The medical reasoning agent:
+  - **Symptom Analysis**: Interprets what the user is describing to understand their health problem.
+  - **Antibiotic Misuse Detection**: Specifically monitors for inappropriate antibiotic requests — a critical feature given the AMR crisis (Page 4). The AI can detect when someone is asking for antibiotics they don't need and educate them instead.
+  - **Risk Scoring**: Assigns a urgency level to the symptoms — determining if this is a routine issue, needs a doctor soon, or is an emergency.
+  - **Awareness & Advice**: Provides health education and guidance, not just diagnosis.
+- **AGENT 3: Operational Agent (Booking Orchestrator)**: The action agent that connects users to care:
+  - **Specialist Recommendation**: Based on the symptoms and risk score, recommends the right type of doctor.
+  - **Hospital API Integration**: Connects to hospital systems to check availability.
+  - **Slot Checking**: Finds open appointment times.
+  - **Appointment Booking**: Actually books the appointment.
+  - **SMS Confirmation**: Sends a text message confirmation — works even on feature phones.
+- **EXTERNAL SYSTEMS**: The real-world systems the AI connects to:
+  - **Hospital Databases**: Patient records, medical history.
+  - **Doctor Schedules**: When doctors are available.
+  - **APIs & SMS Gateway**: The technical connectors that let the AI talk to hospital software and send SMS messages.
+- **Central Knowledge Base (RAG)**: All three agents pull from a shared knowledge base using RAG (Retrieval-Augmented Generation) — meaning the AI looks up relevant medical information before responding, reducing hallucinations and improving accuracy. Contains medical guidelines, drug databases, AMR information, and a Bangla medical corpus.
+- **Monitoring & Analytics Dashboard**: Tracks system performance and public health trends:
+  - **Public Health Insights**: What diseases are being reported, where, when.
+  - **AMR Trends**: Tracking antibiotic misuse patterns over time.
+  - **Usage Analytics**: How the system is being used, which features are most valuable.
+- **Footer compliance text**: Shows the team has thought about legal/regulatory requirements:
+  - **End-to-end encryption**: All calls and data are encrypted for privacy.
+  - **Local data storage (Bangladesh)**: Data is stored within Bangladesh, not in foreign servers — important for data sovereignty and compliance.
+  - **Digital Security Act compliance**: Bangladesh's cybersecurity law.
+  - **Anonymization**: User data is anonymized to protect privacy.
+  - **Audit logging**: All system actions are logged for accountability.
+
+### PPTX Verification
+✅ **MATCHED (with note)** — PPTX Slide 10 contains the subtitle text "CLOUD-NATIVE MULTI-AGENT LLM FRAMEWORK" as shown in the image. However, the full architecture diagram content (USER, Telephony Gateway, AGENT 1/2/3, EXTERNAL SYSTEMS, Central Knowledge Base, Monitoring & Analytics Dashboard, and all bullet points) was not captured in the raw PPTX text extraction, suggesting these are rendered as graphics, grouped shapes, or text within diagram objects in the PPTX file. The high-level subtitle matches; the detailed diagram content is present in the image but not in the PPTX text extraction.
+
+---
+
+---
+
+
 
 ## Page 11: 11.jpg
 
